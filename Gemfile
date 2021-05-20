@@ -22,6 +22,7 @@ group :development do
   gem 'listen'
   gem 'spring'
   gem 'spring-watcher-listen'
+  gem 'rexml', '~> 3.2', '>= 3.2.4'
 end
 
 group :test do
